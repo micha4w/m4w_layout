@@ -10,7 +10,7 @@
         m4w = {
           description = "Swiss German (custom AltGr)";
           languages = [ "deu" ];
-          symbolsFile = ./symbols_custom_altgr;
+          symbolsFile = ./xkb/symbols/m4w_layout;
         };
       };
     };
